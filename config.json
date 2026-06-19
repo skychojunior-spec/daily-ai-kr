@@ -1,0 +1,21 @@
+{
+  "podcast": {
+    "title": "AI 데일리 — 미국 LLM·빅테크 한국어 브리핑",
+    "subtitle": "매일 아침 5분, 미국의 LLM·빅테크 뉴스와 논문을 비개발자 눈높이로",
+    "description": "미국의 LLM과 빅테크(OpenAI·Anthropic·Google·Meta 등) 최신 뉴스와 arXiv 논문 소식을 매일 한국어로 요약해 2인 대화형 음성으로 전해드립니다. 자동 생성 개인 팟캐스트.",
+    "author": "skychojunior",
+    "language": "ko-kr",
+    "email": "skychojunior@gmail.com"
+  },
+  "github": {
+    "owner": "skychojunior-spec",
+    "repo": "daily-ai-kr",
+    "pages_base": "https://skychojunior-spec.github.io/daily-ai-kr"
+  },
+  "voices": {
+    "host": "ko-KR-SunHiNeural",
+    "expert": "ko-KR-InJoonNeural",
+    "rate": "+8%"
+  },
+  "max_items": 5
+}

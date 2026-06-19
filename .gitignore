@@ -1,0 +1,10 @@
+# 비밀값 — 절대 커밋 금지
+secrets.env
+
+# 작업용 임시 파일
+.work/
+*.tmp
+
+# 파이썬
+__pycache__/
+*.pyc

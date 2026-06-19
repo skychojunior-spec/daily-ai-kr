@@ -12,9 +12,17 @@ AI 데일리 발행 엔진
 import asyncio
 import json
 import os
+import ssl
 import subprocess
 import sys
 import urllib.request
+
+# macOS python.org 빌드의 CA 인증서 누락 대비 (certifi 사용)
+try:
+    import certifi
+    SSL_CTX = ssl.create_default_context(cafile=certifi.where())
+except Exception:
+    SSL_CTX = ssl.create_default_context()
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
@@ -206,9 +214,11 @@ def post_discord(content, mp3_url, feed_url, webhook):
         "content": text,
         "allowed_mentions": {"parse": []},
     }).encode("utf-8")
-    req = urllib.request.Request(webhook, data=payload,
-                                 headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req) as r:
+    req = urllib.request.Request(webhook, data=payload, headers={
+        "Content-Type": "application/json",
+        "User-Agent": "daily-ai-kr/1.0 (+https://github.com/skychojunior-spec/daily-ai-kr)",
+    })
+    with urllib.request.urlopen(req, context=SSL_CTX) as r:
         print(f"Discord 전송 완료: HTTP {r.status}")
 
 

@@ -16,12 +16,12 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>6월 19일 — OpenAI 상장 준비, 구글 제미나이 인하, 클로드 수출통제 외 논문 2건</title>
-      <description>오늘의 미국 LLM·빅테크 브리핑: OpenAI가 상장 절차에 착수했고, 구글은 제미나이 신모델과 가격 인하를 발표했습니다. 앤트로픽은 신모델 Fable 5를 내놨지만 미국 정부 수출통제 대상이 됐습니다. 논문으로는 '마우스·시선으로 AI를 학습시키는 연구'와 '규칙을 어기지 않는 AI 비서' 두 편을 다룹니다.</description>
-      <pubDate>Fri, 19 Jun 2026 08:17:42 +0000</pubDate>
+      <title>6월 19일 — OpenAI 상장 절차 착수, 앤트로픽 수출통제·서울 진출 (검증판)</title>
+      <description>공식 출처로 확인한 6월의 미국 AI 큰 움직임 세 가지: OpenAI의 상장 준비, 앤트로픽 최신 모델에 대한 미국 정부의 수출통제, 그리고 앤트로픽의 서울 오피스 개설. AI가 거대 산업이자 국가 전략기술, 글로벌 인프라로 동시에 커지는 흐름을 짚습니다.</description>
+      <pubDate>Fri, 19 Jun 2026 08:27:42 +0000</pubDate>
       <guid isPermaLink="false">daily-ai-kr-2026-06-19</guid>
-      <enclosure url="https://skychojunior-spec.github.io/daily-ai-kr/ep/2026-06-19.mp3" length="1601589" type="audio/mpeg"/>
-      <itunes:duration>04:21</itunes:duration>
+      <enclosure url="https://skychojunior-spec.github.io/daily-ai-kr/ep/2026-06-19.mp3" length="1121109" type="audio/mpeg"/>
+      <itunes:duration>03:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

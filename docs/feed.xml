@@ -16,6 +16,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>7월 17일 — EU '안드로이드를 라이벌 AI에 열어라', 구글 제미나이 3.5 프로 수개월 지연, GPT-5.6 파일 삭제 논란, 넷플릭스 300편에 생성 AI</title>
+      <description>EU가 구글에 안드로이드와 검색의 핵심 기능을 경쟁 AI 비서·검색사에 열라는 두 건의 결정을 내렸습니다(시행 시점은 미확인). 같은 날 구글의 차기 주력 모델 제미나이 3.5 프로가 코딩 성능 때문에 수개월 지연 중이라는 보도가 나왔고, OpenAI는 GPT-5.6의 파일 삭제 사고가 '샌드박스 없는 전체 접근 모드'에서 주로 발생한다고 밝혔습니다. 넷플릭스는 올해 약 300편에 생성 AI를 썼다고 공개했습니다.</description>
+      <pubDate>Thu, 16 Jul 2026 23:17:51 +0000</pubDate>
+      <guid isPermaLink="false">daily-ai-kr-2026-07-17</guid>
+      <enclosure url="https://skychojunior-spec.github.io/daily-ai-kr/ep/2026-07-17.mp3" length="2363565" type="audio/mpeg"/>
+      <itunes:duration>06:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>7월 16일 — OpenAI 'GPT-Red' 자동 레드팀, 티엠랩 첫 오픈모델 '잉클링', 'Ode with 앤트로픽' 정식 출범, 애플 인텔리전스 중국 승인</title>
       <description>OpenAI가 스스로 공격법을 찾아내는 자동 레드팀 모델 GPT-Red를 공개하며 최신 GPT-5.6을 여기에 단련시켰다고 밝혔습니다(공격 성공률 GPT-5 90%+ → GPT-5.6 23% 미만). 미라 무라티의 씽킹머신랩은 첫 오픈웨이트 모델 '잉클링'(총 9,750억·활성 410억 파라미터)을 냈고, 앤트로픽·블랙스톤 합작 AI 도입 회사가 'Ode with Anthropic'(엔지니어 100명)이라는 이름으로 정식 출범했습니다. 애플 인텔리전스는 알리바바 큐원을 얹어 중국 당국 승인을 받았습니다. 모두 채용·인재 시장에 남기는 흔적이 뚜렷한 소식입니다.</description>
       <pubDate>Wed, 15 Jul 2026 23:08:13 +0000</pubDate>

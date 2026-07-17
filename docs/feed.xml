@@ -16,6 +16,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>7월 18일 — 메타·앤트로픽 100억 달러 컴퓨트 협상, 데이터브릭스 1880억, 엔비디아 '사후학습' 칩</title>
+      <description>GPU 연산력 확보 전쟁이 오늘의 큰 흐름입니다. 경쟁사인 메타가 앤트로픽에 데이터센터 연산력을 2년 약 100억 달러에 빌려주는 협상을 한다는 보도, 데이터브릭스의 1,880억 달러 기업가치와 '오픈 모델이 코딩 비용을 낮춘다'는 사내 벤치마크, 엔비디아가 '사후학습'을 에이전트 시대의 핵심으로 짚은 신칩, 그리고 트럼프 행정부의 AI 안전 규제기관 검토설을 채용 관점에서 풀었습니다.</description>
+      <pubDate>Fri, 17 Jul 2026 23:10:01 +0000</pubDate>
+      <guid isPermaLink="false">daily-ai-kr-2026-07-18</guid>
+      <enclosure url="https://skychojunior-spec.github.io/daily-ai-kr/ep/2026-07-18.mp3" length="1357701" type="audio/mpeg"/>
+      <itunes:duration>03:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>7월 17일 — EU '안드로이드를 라이벌 AI에 열어라', 구글 제미나이 3.5 프로 수개월 지연, GPT-5.6 파일 삭제 논란, 넷플릭스 300편에 생성 AI</title>
       <description>EU가 구글에 안드로이드와 검색의 핵심 기능을 경쟁 AI 비서·검색사에 열라는 두 건의 결정을 내렸습니다(시행 시점은 미확인). 같은 날 구글의 차기 주력 모델 제미나이 3.5 프로가 코딩 성능 때문에 수개월 지연 중이라는 보도가 나왔고, OpenAI는 GPT-5.6의 파일 삭제 사고가 '샌드박스 없는 전체 접근 모드'에서 주로 발생한다고 밝혔습니다. 넷플릭스는 올해 약 300편에 생성 AI를 썼다고 공개했습니다.</description>
       <pubDate>Thu, 16 Jul 2026 23:17:51 +0000</pubDate>

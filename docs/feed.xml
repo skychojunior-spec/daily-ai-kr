@@ -16,6 +16,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>7월 19일 — OpenAI CFO의 'AI 성적표', 오픈모델 추격 4~7개월, 데이터센터 역풍</title>
+      <description>오늘은 'AI에 쓴 돈을 어떻게 재느냐'가 관통하는 날입니다. OpenAI CFO 세라 프라이어가 제안한 네 가지 질문짜리 AI 성적표, 영국 AI보안연구소가 측정한 오픈웨이트 모델의 추격 속도(6~10개월→4~7개월), 미국 125곳 데이터센터 반대 시위 예고와 오라클의 인허가발 비용 급증, 그리고 트럼프 행정부 AI 정책의 개입 전환을 채용 관점에서 풀었습니다.</description>
+      <pubDate>Sat, 18 Jul 2026 23:09:50 +0000</pubDate>
+      <guid isPermaLink="false">daily-ai-kr-2026-07-19</guid>
+      <enclosure url="https://skychojunior-spec.github.io/daily-ai-kr/ep/2026-07-19.mp3" length="2144277" type="audio/mpeg"/>
+      <itunes:duration>05:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>7월 18일 — 메타·앤트로픽 100억 달러 컴퓨트 협상, 데이터브릭스 1880억, 엔비디아 '사후학습' 칩</title>
       <description>GPU 연산력 확보 전쟁이 오늘의 큰 흐름입니다. 경쟁사인 메타가 앤트로픽에 데이터센터 연산력을 2년 약 100억 달러에 빌려주는 협상을 한다는 보도, 데이터브릭스의 1,880억 달러 기업가치와 '오픈 모델이 코딩 비용을 낮춘다'는 사내 벤치마크, 엔비디아가 '사후학습'을 에이전트 시대의 핵심으로 짚은 신칩, 그리고 트럼프 행정부의 AI 안전 규제기관 검토설을 채용 관점에서 풀었습니다.</description>
       <pubDate>Fri, 17 Jul 2026 23:10:01 +0000</pubDate>

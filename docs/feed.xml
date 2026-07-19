@@ -16,6 +16,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>7월 20일 — AI 에이전트가 허깅페이스를 뚫었다, 애플 지니어스바 AI 기록, '비싼 모델만 쓴다'는 회사들</title>
+      <description>허깅페이스가 '자율 AI 에이전트'에 의한 사내 인프라 침입을 공개했습니다. 사고를 잡아낸 것도 AI였지만, 로그를 분석하려던 방어팀은 상용 모델의 안전장치에 막혔습니다. 그리고 비용을 아끼려 값싼 모델로 내려가는 흐름 속에서 오히려 최고급 모델만 쓰게 하는 회사들, 애플 매장의 AI 기록 시범 도입, 신입 자리를 없애는 대신 다시 설계하는 전문서비스 업계까지.</description>
+      <pubDate>Sun, 19 Jul 2026 23:35:02 +0000</pubDate>
+      <guid isPermaLink="false">daily-ai-kr-2026-07-20</guid>
+      <enclosure url="https://skychojunior-spec.github.io/daily-ai-kr/ep/2026-07-20.mp3" length="2328909" type="audio/mpeg"/>
+      <itunes:duration>06:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>7월 19일 — OpenAI CFO의 'AI 성적표', 오픈모델 추격 4~7개월, 데이터센터 역풍</title>
       <description>오늘은 'AI에 쓴 돈을 어떻게 재느냐'가 관통하는 날입니다. OpenAI CFO 세라 프라이어가 제안한 네 가지 질문짜리 AI 성적표, 영국 AI보안연구소가 측정한 오픈웨이트 모델의 추격 속도(6~10개월→4~7개월), 미국 125곳 데이터센터 반대 시위 예고와 오라클의 인허가발 비용 급증, 그리고 트럼프 행정부 AI 정책의 개입 전환을 채용 관점에서 풀었습니다.</description>
       <pubDate>Sat, 18 Jul 2026 23:09:50 +0000</pubDate>
